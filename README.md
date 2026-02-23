@@ -48,3 +48,7 @@ Exposed on port 80
 - Docker image lifecycle
 - AWS networking basics (Security Groups, VPC)
 - Automated cloud deployment using user_data
+
+## 🧪 Example Output
+
+![App Screenshot](screenshot.png)
